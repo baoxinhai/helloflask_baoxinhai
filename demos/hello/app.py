@@ -22,7 +22,7 @@ def index():
 @app.route('/hello')
 def say_hello():
     return '<h1>Hello, Flask!</h1>'
-#This is the web test
+#This is the web test !
 
 
 # dynamic route, URL variable default
